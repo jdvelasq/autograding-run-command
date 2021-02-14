@@ -1,1 +1,2 @@
-# autograding-run-command
+# Autograding Example: Run command
+
